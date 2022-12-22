@@ -18,6 +18,6 @@
 #define rs1 HAL_GPIO_WritePin(GPIOA, GPIO_PIN_8, GPIO_PIN_SET)//set line RS in 1
 #define rs0 HAL_GPIO_WritePin(GPIOA, GPIO_PIN_8, GPIO_PIN_RESET)// reset line Rs in 0
 
-
+//next lesson 7
 
 #endif /* LCD_H_ */
